@@ -1,9 +1,20 @@
 # 100-days-of-code-full-stack
+
+### What i am gonna learn?
+
+Frontend: HTML, CSS, JavaScript, Bootstrap, Tailwind
+
+Backend: Express, NodeJS
+
+Database: SQL, MongoDB
+
+React
+
 ### Day 1: August 6, 2026
 
-**Today's Progress:** [e.g., Created my GitHub repository, planned my revision strategy, and set up my WSL2 environment.]
+**Today's Progress:** Learn about internet, how website works, what's work of html, css, javaScript
 
-**Thoughts:** [e.g., Felt a bit lost at first, but getting the repo set up gave me some momentum. Ready to tackle CSS tomorrow.]
+**Thoughts:** Feeling good about restarting this journey and this time it gonna end properly
 
 **Link to work:** [Optional: Link to the specific folder or file you worked on today, if any.]
 

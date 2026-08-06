@@ -6,3 +6,5 @@
 **Thoughts:** [e.g., Felt a bit lost at first, but getting the repo set up gave me some momentum. Ready to tackle CSS tomorrow.]
 
 **Link to work:** [Optional: Link to the specific folder or file you worked on today, if any.]
+
+---

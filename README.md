@@ -16,6 +16,15 @@ React
 
 **Thoughts:** Feeling good about restarting this journey and this time it gonna end properly
 
+**Link to work:** [Link](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/01-day-001)
+
+---
+### Day 2: August 7, 2026
+
+**Today's Progress:** Learn about anchor, image, and list tag. Made a personal portfolio as practice question 
+
+**Thoughts:** Things are easy cause i have done this before.
+
 **Link to work:** Link
 
 ---

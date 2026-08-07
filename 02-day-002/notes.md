@@ -30,3 +30,7 @@ We can use height and weight to scale the image but its is not recommended to do
 To get line break we use **\<br>**
 
 For Bold - b, Italic - i, Underline - u
+
+## Comment
+
+Comment tag is ignored by the compiler. It is used to point out something to code reader.

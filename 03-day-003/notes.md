@@ -21,3 +21,11 @@ But it is an inline element.
 It is the markup that relates to the meaning of content.
 
 It is recommended to use these it makes page structured and SEO friendly.
+
+## HTML Entities
+
+An HTML entity is a piece of text that begins with an ampersand(&) and ends with a semicolon(;).
+
+It is used to display **reserved characters** and invisible characters
+
+You can refer to this [HTML entities](https://www.w3schools.com/html/html_entities.asp) to take a look on it.

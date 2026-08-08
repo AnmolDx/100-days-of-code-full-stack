@@ -25,6 +25,15 @@ React
 
 **Thoughts:** Things are easy cause i have done this before.
 
+**Link to work:** [Link](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/02-day-002)
+
+---
+### Day 3: August 8, 2026
+
+**Today's Progress:** Learn about Div and Span, Inline/block element. Add sementic tags to personal portfolio as practice question.
+
+**Thoughts:** Damn i did not expect but i am learning some new things with this revision.
+
 **Link to work:** Link
 
 ---

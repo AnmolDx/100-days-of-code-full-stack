@@ -15,3 +15,9 @@ It is a block element.
 It is same as div which hold other html element.
 
 But it is an inline element.
+
+## Semantic Markup
+
+It is the markup that relates to the meaning of content.
+
+It is recommended to use these it makes page structured and SEO friendly.

@@ -34,6 +34,15 @@ React
 
 **Thoughts:** Damn i did not expect but i am learning some new things with this revision.
 
+**Link to work:** [Link](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/03-day-003)
+
+---
+### Day 4: August 9, 2026
+
+**Today's Progress:** Learn about table and form with its input element like button, checkbox, radio, select, etc.
+
+**Thoughts:** Got some good knowledge of forms in HTML. Things are making sense now.
+
 **Link to work:** Link
 
 ---

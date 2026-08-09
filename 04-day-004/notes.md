@@ -32,3 +32,4 @@ Forms are used to collect data from the user.
 
 - Input - used to create multiple form controls. There are multiple types of input that can be created using type attribute. You can check a lot of input type on [mdn](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/input)
 
+- Label - Label element represents a caption for an item in a user interface.

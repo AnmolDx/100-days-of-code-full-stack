@@ -35,3 +35,21 @@ Letters: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
 ## Text Align Property
 
 It align the text according to parent element.
+
+## Font-weight
+
+It can be normal(400)/bold(700)/light/100-900.
+
+## Text-decoration
+
+sets the apprearance of decorative lines on text like underline.
+
+text-decoration: underline/overline/line-through
+
+## line-height
+
+controls the height of the line of text.
+
+## letter-spacing
+
+controls the horizontal spacing behavior between text characters.

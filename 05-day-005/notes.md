@@ -53,3 +53,15 @@ controls the height of the line of text.
 ## letter-spacing
 
 controls the horizontal spacing behavior between text characters.
+
+## Units in CSS
+
+Absolute = Fixed, px,pc,pt,cm,mm,in
+
+1in = 96px
+
+Relative = Related to other relation's value. %,em,rem,vh,vw
+
+## font-family
+
+specifies a priortized list of one or more font family names

@@ -43,6 +43,15 @@ React
 
 **Thoughts:** Got some good knowledge of forms in HTML. Things are making sense now.
 
+**Link to work:** [Link](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/04-day-004)
+
+---
+### Day 5: August 10, 2026
+
+**Today's Progress:** Started CSS and learn about how to add it on HTML, text align, font family, font weight, color system, units in css.
+
+**Thoughts:** CSS time things are gonna be ez for some few days.
+
 **Link to work:** Link
 
 ---

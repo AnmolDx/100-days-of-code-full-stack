@@ -22,3 +22,16 @@ Example - `<style>
 
 You can link it by writing `<link rel="stylesheet" href="style.css">` in head tag of your HTML document.
 
+## Color System
+
+- Named Colors - Each browser recognizes around 140 named colors.
+
+-RGB - Red Green Blue (0-255) `color = rgb(0,0,0)`
+
+- Hexadecimal or Hex - `color = #ffffff`
+
+Letters: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+## Text Align Property
+
+It align the text according to parent element.

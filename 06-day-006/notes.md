@@ -29,3 +29,11 @@ Selects an element based on their class attribute.
 Example - `.myclass{
    property: value;
 }`
+
+## Descedant Selector
+
+Eg - selects all paragraphs inside divs
+
+`div p{
+   property: value;
+}`

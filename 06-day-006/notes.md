@@ -53,3 +53,11 @@ Eg - Selects all buttons which are direct children of spans.
 `span > button{
    property: value;
 }`
+
+## Attribute Selector
+
+Selects elements based on the presence or value of given attribute.
+
+`input[attr = "value"]{
+   property: value;
+}`

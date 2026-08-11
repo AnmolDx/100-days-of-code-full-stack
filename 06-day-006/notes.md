@@ -37,3 +37,11 @@ Eg - selects all paragraphs inside divs
 `div p{
    property: value;
 }`
+
+## Adjacent Sibling Combinator
+
+Eg - h3 that comes immediately after any paragraph.
+
+`p + h3{
+   property: value;
+}`

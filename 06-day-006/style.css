@@ -23,10 +23,15 @@ h3, h1{
 nav ul li{
    color: pink;
 }
+/* Adjacent sibling combinator */
 p + h3{
    text-decoration: underline;
 }
 .upvote + button{
    background-color: cornflowerblue;
    color: blue;
+}
+/* Child combinator */
+div > input{
+   background-color: bisque;
 }

@@ -45,3 +45,11 @@ Eg - h3 that comes immediately after any paragraph.
 `p + h3{
    property: value;
 }`
+
+## Child Combinator
+
+Eg - Selects all buttons which are direct children of spans.
+
+`span > button{
+   property: value;
+}`

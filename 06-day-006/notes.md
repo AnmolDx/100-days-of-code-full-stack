@@ -61,3 +61,16 @@ Selects elements based on the presence or value of given attribute.
 `input[attr = "value"]{
    property: value;
 }`
+
+## Pseudo Class
+
+A keyword added to a selector that specifies a special state of the selected elements.
+
+`element:pseudoClass{
+   property: value;
+}`
+
+## Pseudo Elements
+
+A keyword added to a selector that lets you style a specific part of the seleted element.
+

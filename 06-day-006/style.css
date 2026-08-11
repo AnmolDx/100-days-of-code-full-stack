@@ -44,3 +44,30 @@ input[type="text"]{
 input[type]{
    background-color: ghostwhite;
 }
+button:hover{
+   background-color: black;
+   color: white;
+}
+h3:hover{
+   text-decoration: overline;
+}
+button:active{
+   background-color: hotpink;
+   color: black;
+}
+p:active{
+   font-weight: bold;
+   color: green;
+}
+div:nth-of-type(3n){
+   background-color: blueviolet;
+}
+h1::first-letter{
+   color: pink;
+}
+p::first-line{
+   color: purple;
+}
+p::selection{
+   background-color: limegreen;
+}

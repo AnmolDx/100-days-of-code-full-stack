@@ -52,6 +52,15 @@ React
 
 **Thoughts:** CSS time things are gonna be ez for some few days.
 
+**Link to work:** [Link](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/05-day-005)
+
+---
+### Day 6: August 11, 2026
+
+**Today's Progress:** Learn about selectors, combinators, pseudo classes and its elements and inheritance in css.
+
+**Thoughts:** Learning new things.
+
 **Link to work:** Link
 
 ---

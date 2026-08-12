@@ -27,3 +27,17 @@ Shorthand property to set values for the thickness of the padding area. If left 
 - top | left & right | bottom - `padding: 1px 2px 3px;`
 
 - top | right | bottom | left - `padding: 1px 2px 3px 4px;`
+
+## Margin
+
+To set spacing on the outside of border.
+
+individual sides can access by margin-left, margin-right, margin-top, margin-bottom.
+
+- for all 4 sides - `margin: 50px`
+
+- top & bottom | left & right - `margin: 1px 2px;`
+
+- top | left & right | bottom - `margin: 1px 2px 3px;`
+
+- top | right | bottom | left - `margin: 1px 2px 3px 4px;`

@@ -1,0 +1,36 @@
+h1{
+    border: 2px solid;
+    width: 50%;
+}
+#outer{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    margin: 30px;
+}
+#inner{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    margin-left: 50%;
+}
+#outer2{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    border: 2px solid;
+    font-size: 12px;
+}
+#inner2{
+    height: 80px;
+    width: 80px;
+    background-color: yellow;
+    font-size: 1.5em;
+    padding: 2em;
+}
+section{
+    font-size: 20px;
+}
+.div{
+    font-size: 2rem;
+}

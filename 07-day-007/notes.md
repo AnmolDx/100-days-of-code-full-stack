@@ -47,3 +47,11 @@ individual sides can access by margin-left, margin-right, margin-top, margin-bot
 it sets whether an element is treated as a block or inline element and the layout used for its children.
 
 inline dont respect height, width, margin-top and bottom, and some other properties too. You can use inline-block display property so that css property can apply on them.
+
+## Relative units
+
+- % - It is often used to define a size as relative to an element's parent object.
+
+- em - relative to parent or self.
+
+- rem - relative to the root element.

@@ -41,3 +41,9 @@ individual sides can access by margin-left, margin-right, margin-top, margin-bot
 - top | left & right | bottom - `margin: 1px 2px 3px;`
 
 - top | right | bottom | left - `margin: 1px 2px 3px 4px;`
+
+## Display
+
+it sets whether an element is treated as a block or inline element and the layout used for its children.
+
+inline dont respect height, width, margin-top and bottom, and some other properties too. You can use inline-block display property so that css property can apply on them.

@@ -16,3 +16,8 @@ Sets the opacity for the element
 
 range from 0 to 1
 
+## Transitions
+
+Transitions enable you to define the transition between two states of an element.
+
+Shorthand - `transition: property name | duration | timing-funtion | delay`

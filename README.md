@@ -76,6 +76,16 @@ React
 
 **Thoughts:** Getting close to javaScript, EXCITED!!!.
 
-**Link to work:** View Day 7 Work
+**Link to work:** [View Day 7 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/07-day-007)
+
+---
+
+### Day 8: August 13, 2026
+
+**Today's Progress:** Learn about alpha channel, transitions, transform, opacity, box-shadow, and position property.
+
+**Thoughts:** Now we talkin.
+
+**Link to work:** View Day 8 Work
 
 ---

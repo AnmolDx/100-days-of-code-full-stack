@@ -31,3 +31,9 @@ Shorthand - `transition: property name | duration | timing-funtion | delay`
 - Translate: `transform(x, y);`
 
 - Skew - `transform: skew(30deg)`
+
+## Box Shadow
+
+It adds shadow effects around an element's frame.
+
+`box-shadow: x-offset | y-offset | blur-radius | color;`

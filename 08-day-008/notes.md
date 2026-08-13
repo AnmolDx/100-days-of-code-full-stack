@@ -21,3 +21,13 @@ range from 0 to 1
 Transitions enable you to define the transition between two states of an element.
 
 Shorthand - `transition: property name | duration | timing-funtion | delay`
+
+## Transform
+
+- Rotate: `transform: rotate(45deg)`
+
+- Scale: `transform: scale(0.5);`
+
+- Translate: `transform(x, y);`
+
+- Skew - `transform: skew(30deg)`

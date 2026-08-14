@@ -22,7 +22,7 @@ React
 
 ### Day 2: August 7, 2026
 
-**Today's Progress:** Learn about anchor, image, and list tag. Made a personal portfolio as practice question 
+**Today's Progress:** Learn about anchor, image, and list tag. Made a personal portfolio as practice question
 
 **Thoughts:** Things are easy cause i have done this before.
 
@@ -86,6 +86,16 @@ React
 
 **Thoughts:** Now we talkin.
 
-**Link to work:** View Day 8 Work
+**Link to work:** [View Day 8 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/08-day-008)
+
+---
+
+### Day 9: August 14, 2026
+
+**Today's Progress:** Learn about flex box, justify content, flex wrap, align items, align content, align self, and flex sizing.
+
+**Thoughts:** CSS is all about creativity(which is missing in me).
+
+**Link to work:** View Day 9 Work
 
 ---

@@ -37,3 +37,4 @@ Align an item along the cross axis.
 - flex-shrink -  it sets the flex shrink factor of a flex item.
 
 flex shorthand - `flex: flex-grow | flex-shrink | flex-basis`
+, `flex: flex-grow | flex-basis`

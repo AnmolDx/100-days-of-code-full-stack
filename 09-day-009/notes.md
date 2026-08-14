@@ -16,3 +16,14 @@ Tells how the browser distributes space between and around content itmes along t
 
 Sets whether flex items are forced onto one line or can wrap onto multiple lines.
 
+## Align Items
+
+Distributes our items along the cross axis.
+
+## Align Content
+
+it sets the distribution of space between and around content items along a flexbox's cross-axis.
+
+## Align Self
+
+Align an item along the cross axis.

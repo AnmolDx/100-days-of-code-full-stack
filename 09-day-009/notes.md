@@ -11,3 +11,8 @@ if direction = row
 ## Justify Content
 
 Tells how the browser distributes space between and around content itmes along the main-axis.
+
+## Flex Wrap
+
+Sets whether flex items are forced onto one line or can wrap onto multiple lines.
+

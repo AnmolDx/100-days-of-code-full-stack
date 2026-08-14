@@ -27,3 +27,13 @@ it sets the distribution of space between and around content items along a flexb
 ## Align Self
 
 Align an item along the cross axis.
+
+## Flex Sizing
+
+- flex-basis - it sets the initial main size of flex item.
+
+- flex-grow - it specifies how much of the flex container's remaining space should be assigned to the flex item's main size.
+
+- flex-shrink -  it sets the flex shrink factor of a flex item.
+
+flex shorthand - `flex: flex-grow | flex-shrink | flex-basis`

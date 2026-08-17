@@ -96,6 +96,16 @@ React
 
 **Thoughts:** CSS is all about creativity(which is missing in me).
 
-**Link to work:** View Day 9 Work
+**Link to work:** [View Day 9 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/09-day-009)
+
+---
+
+### Day 10: August 17, 2026
+
+**Today's Progress:** Learn about grid and its properties, CSS animations, and media quaries.
+
+**Thoughts:** This is getting intersting .
+
+**Link to work:** View Day 10 Work
 
 ---

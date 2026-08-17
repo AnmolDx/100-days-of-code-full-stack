@@ -82,3 +82,19 @@ to animate CSS elements.
     50%{font-size: 30px;}
     100%{font-size: 40px}
 }`
+
+## Media Queries
+
+Help create a responsive website
+
+`@media (min-width: 400px) {
+    div{
+        background-color: red;
+    }
+}` - changes occur if min-width is 400px or higher than that.
+
+`@media (max-width: 400px) {
+    div{
+        background-color: yellow;
+    }
+}` - changes occur if max-width is 400px or lower than that.

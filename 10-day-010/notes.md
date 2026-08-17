@@ -35,3 +35,50 @@ Define an item's starting & ending position inside the row.
 `grid-row-start: line_number`, `grid-row-end: line_number`
 
 `grid-row: start_col/end_col`, `grid-row: start_col/ span number`
+
+## Common Properties
+
+`justify-items` (container) - horizontal
+
+`justify-self` (item) - horizontal
+
+`align-items` (container) - vertical
+
+`align-self` (item) - vertical
+
+`place-items` (container) - both horizontal and vertical
+
+`place-self` (item) - both horizontal and vertical
+
+## CSS Animations
+
+to animate CSS elements.
+
+`@keyframes myName {
+    from{font-size: 20px;}
+    to{font-size: 40px;}
+}`
+
+- `animation-name`
+
+- `animation-duration`
+
+- `animation-timing-function`
+
+- `animation-delay`
+
+- `animation-iteration-count`
+
+- `animation-direction`
+
+## Animation Shorthand
+
+`animation: myName | duration | timing-funtion | delay | iteration | direction`
+
+## % in Animation
+
+`@keyframes myName {
+    0%{font-size: 20px;}
+    50%{font-size: 30px;}
+    100%{font-size: 40px}
+}`

@@ -1,0 +1,36 @@
+.box{
+    width: 300px;
+    height: 100px;
+    background-color: red;
+
+    /* animation-name: heightAnimate, divAnimation;
+    animation-duration: 4s;
+    animation-timing-function: ease-in;
+    animation-delay: 0s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate; */
+
+    animation: rgbAnimation 5s ease-in 0s infinite alternate;
+}
+@keyframes divAnimation {
+    from{
+        background-color: orange;
+        height: 50px;
+    }
+    to{
+        background-color: green;
+        height: 300px;
+    }
+}
+
+@keyframes rgbAnimation {
+    0%{
+        background-color: red;
+    }
+    50%{
+        background-color: blue;
+    }
+    100%{
+        background-color: green;
+    }
+}

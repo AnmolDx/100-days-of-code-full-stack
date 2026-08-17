@@ -1,0 +1,31 @@
+.container{
+    width: 600px;
+    height: 300px;
+    background-color: darkblue;
+    display: grid;
+    /* grid-template-rows: 100px 100px 100px ;
+    grid-template-columns: 200px 200px 200px; */
+    grid-template-rows: repeat(5, 1fr);
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 10px;
+    column-gap: 10px;
+}
+.item{
+    /* width: 100px;
+    height: 50px; */
+    background-color: lime;
+    border: 2px solid;
+}
+.one{
+    /* grid-column-start: 1;
+    grid-column-end: 3; */
+    /* grid-column: 1/3; */
+    grid-column: 1/span 2;
+    /* these all work as same */
+}
+.two{
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-row: 1/3;
+    grid-row: 1/span 2;
+}

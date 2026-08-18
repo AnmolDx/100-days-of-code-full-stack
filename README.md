@@ -106,6 +106,16 @@ React
 
 **Thoughts:** This is getting intersting .
 
-**Link to work:** View Day 10 Work
+**Link to work:** [View Day 10 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/10-day-010)
+
+---
+
+### Day 11: August 18, 2026
+
+**Today's Progress:** Learn about adding google fonts, icons on site, and made a small CSS project.
+
+**Thoughts:** This is hard but good.
+
+**Link to work:** View Day 11 Work
 
 ---

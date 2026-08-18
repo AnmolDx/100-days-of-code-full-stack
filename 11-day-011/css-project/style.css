@@ -17,22 +17,25 @@
     left: 16px;
     line-height: 60px;
     cursor: pointer;
+    transition: 0.3s linear;
 }
 
 .sidebar_menu{
     position: fixed;
-    /* left: -300px; */
+    left: -300px;
     height: 100vh;
     width: 300px;
     background-color: rgba(255, 255, 255, 0.1);
     box-shadow: 0px 0px 5px white;
+    transition: 0.3s linear;
 }
 
 .sidebar_menu .logo{
     position: absolute;
     width: 100%;
     line-height: 60px;
-    box-shadow: 0px 0px 4px white;
+    box-shadow: 0px 0px 3px white;
+    height: 60px;
 }
 
 .sidebar_menu .logo a{
@@ -57,7 +60,8 @@
     line-height: 60px;
     left: 270px;
     cursor: pointer;
-    /* opacity: 0; */
+    opacity: 0;
+    transition: 0.3s linear;
 }
 
 .sidebar_menu .menu li{
@@ -106,4 +110,15 @@
 .sidebar_menu .social_media i:hover{
     opacity: 1;
     transform: scale(1.1);
+}
+
+#check:checked ~ .sidebar_menu{
+    left: 0;
+}
+
+#check:checked ~ .btn_one{
+    opacity: 0;
+}
+#check:checked ~ .sidebar_menu .btn_two i{
+    opacity: 1;
 }

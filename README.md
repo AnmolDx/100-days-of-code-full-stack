@@ -116,6 +116,16 @@ React
 
 **Thoughts:** This is hard but good.
 
-**Link to work:** View Day 11 Work
+**Link to work:** [View Day 11 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/11-day-011)
+
+---
+
+### Day 12: August 20, 2026
+
+**Today's Progress:** Learn about bootstrap and its basic components.
+
+**Thoughts:** With bootstrap CSS is quite easy.
+
+**Link to work:** View Day 12 Work
 
 ---

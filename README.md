@@ -126,6 +126,16 @@ React
 
 **Thoughts:** With bootstrap CSS is quite easy.
 
-**Link to work:** View Day 12 Work
+**Link to work:** [View Day 12 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/12-day-012)
+
+---
+
+### Day 13: August 21, 2026
+
+**Today's Progress:** Learn about Variables, Data types, and operators in JavaScript.
+
+**Thoughts:** lesss gooo JS.
+
+**Link to work:** View Day 13 Work
 
 ---

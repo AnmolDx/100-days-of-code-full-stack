@@ -17,3 +17,23 @@ A variable is simply the name of a storage location. It simply reserve the space
 ## Operator Precedence
 
 Highest -> Lowest - ( ) | ** | *, /, % | +, -
+
+## Assignment Operators
+
+age = age + 1; age += 1
+
+This can be use with any operators
+
+## Unary Operators
+
+age = age + 1; age +=1; age++ (These all are same). Its called increment operator.
+
+age-- (decrement operator)
+
+Pre-increment(change, then use)
+
+++age
+
+Post-Increment(Use, then change)
+
+age++

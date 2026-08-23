@@ -31,3 +31,7 @@ to write(log) message on the console.
 - falsy values - false, 0, -0, 0n, ""(empty string), null, undefined, NaN.
 
 - Truthy Values - Everything else
+
+## Switch Statement
+
+used when we have some fixed values that we need to compare to.

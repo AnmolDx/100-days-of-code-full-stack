@@ -1,3 +1,5 @@
+//Traffic Light System
+
 let color = "green" //red, yellow, green
 
 if(color === "red"){

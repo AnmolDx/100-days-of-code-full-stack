@@ -25,3 +25,9 @@ to write(log) message on the console.
 - else statement - if `if` condition is false then it will log else statement without checking anything.
 
 - Nested if-else - Nesting is writing if-else inside if-else statements. It can have many levels.
+
+## truthy & falsy
+
+- falsy values - false, 0, -0, 0n, ""(empty string), null, undefined, NaN.
+
+- Truthy Values - Everything else

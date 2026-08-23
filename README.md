@@ -136,6 +136,16 @@ React
 
 **Thoughts:** lesss gooo JS.
 
-**Link to work:** View Day 13 Work
+**Link to work:** [View Day 13 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/13-day-013)
+
+---
+
+### Day 14: August 23, 2026
+
+**Today's Progress:** Learn about logical/comparison operators, conditional statements, and switch statements.
+
+**Thoughts:** Reminding a lot of things.
+
+**Link to work:** View Day 14 Work
 
 ---

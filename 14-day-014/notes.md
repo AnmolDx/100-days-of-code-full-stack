@@ -8,6 +8,14 @@ to write(log) message on the console.
 
 - comparison operator - compare 2 values. >, <, <=, >=, ==(compares value, not type), ===(compares value and type), !=
 
+- Logical operators - combine expressions
+
+  - &&(AND) operator - true if and only if the both condition are true.
+
+  - ||(OR) operator - true if either of one condition is true.
+
+  - !(Logical NOT) operator - reverse the final output. if true then converts to false and vice versa.
+
 ## Conditional Statement
 
 - if statement

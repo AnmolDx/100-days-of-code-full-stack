@@ -27,3 +27,16 @@ if(color === "red"){
 }else{
     console.log("The traffic light is broken")
 }
+
+//Nested if-else statement
+let marks = 98;
+if(marks >= 33){
+    console.log("pass")
+    if(marks >= 80){
+        console.log("Grade: O")
+    }else{
+        console.log("Grade: A")
+    }
+}else{
+    console.log("fail")
+}

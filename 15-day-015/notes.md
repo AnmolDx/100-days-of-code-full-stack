@@ -25,3 +25,31 @@ Argument is a some value that we pass to the method.
 ## Method Chaining
 
 Using one method after another. Order of execution will be left to right.
+
+## Array
+
+Linear collection of things. to define array we use square brakets[]
+
+Arrays are mutable.
+
+## Array Methods
+
+- `Push` - add to end
+
+- `Pop` - delete from end & returns it.
+
+- `Unshift` - add to start.
+
+- `Shift` - delete from start & returns it.
+
+- `indexOf` - returns index of something. -1 if not found
+
+- `includes` - search for a value. true if found, false if not found
+
+- `concat` - merge 2 arrays
+
+- `slice` - copies a portion of an array.
+
+- `splice(start, deleteCount, item0, item1, ...)` - removes/replaces/add elements in place.
+
+- `sort` - sort array in either ascending or descending order.

@@ -146,6 +146,16 @@ React
 
 **Thoughts:** Reminding a lot of things.
 
-**Link to work:** View Day 14 Work
+**Link to work:** [View Day 14 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/14-day-014)
+
+---
+
+### Day 15: August 24, 2026
+
+**Today's Progress:** Learn about string methods, arrays and their methods.
+
+**Thoughts:** Everything seems fine by now.
+
+**Link to work:** View Day 15 Work
 
 ---

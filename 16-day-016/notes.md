@@ -13,3 +13,9 @@ Used to iterate(repeat) a piece of code.
 `while(condition){
     //code
 }`
+
+## for of loop
+
+`for(element of collection){
+    //code
+}`

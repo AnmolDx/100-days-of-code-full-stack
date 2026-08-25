@@ -156,6 +156,16 @@ React
 
 **Thoughts:** Everything seems fine by now.
 
-**Link to work:** View Day 15 Work
+**Link to work:** [View Day 15 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/15-day-015)
+
+---
+
+### Day 16: August 25, 2026
+
+**Today's Progress:** Learn about loops, for-loops, while-loops, and made a small guess the name project.
+
+**Thoughts:** everything is looping around.
+
+**Link to work:** View Day 16 Work
 
 ---

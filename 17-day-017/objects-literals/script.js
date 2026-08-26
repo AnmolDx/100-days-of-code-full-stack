@@ -12,5 +12,10 @@ const post = {
     content: "today i learned about object literals",
     like: 0,
     reposts: 0,
-    tags: ["#100daysofcode", "#webdev", "#javaScript"]
+    hashtags: ["#100daysofcode", "#webdev", "#javaScript"]
 }
+
+post.like = 5;
+post.shares = 2
+delete post.reposts
+console.log(post)

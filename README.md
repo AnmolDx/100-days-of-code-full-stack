@@ -166,6 +166,16 @@ React
 
 **Thoughts:** everything is looping around.
 
-**Link to work:** View Day 16 Work
+**Link to work:** [View Day 16 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/16-day-016)
+
+---
+
+### Day 17: August 26, 2026
+
+**Today's Progress:** Learn about objects literals, math object and made random number guessing game and todo app using js.
+
+**Thoughts:** everything is clicking in mind.
+
+**Link to work:** View Day 17 Work
 
 ---

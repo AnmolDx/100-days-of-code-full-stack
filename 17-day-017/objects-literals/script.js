@@ -19,3 +19,24 @@ post.like = 5;
 post.shares = 2
 delete post.reposts
 console.log(post)
+
+const studentInfo = {
+    anmol : {
+        degree: "BCA",
+        city: "thane"
+    },
+    nitin : {
+        degree: "BBA",
+        city: "mumbai"
+    },
+    manish : {
+        degree: "MBA",
+        city: "pune"
+    },
+}
+
+//random integers
+
+let rand = Math.floor(Math.random()*10)+1;
+
+console.log(rand)

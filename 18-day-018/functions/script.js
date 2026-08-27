@@ -13,3 +13,11 @@ function printloop5(){
 }
 printloop5()
 printloop5()
+
+// functions with arguments
+
+function greet(name){
+    console.log(`Hello ${name}`)
+}
+greet("Anmol")
+greet("Nitin")

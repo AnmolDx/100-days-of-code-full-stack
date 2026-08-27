@@ -35,9 +35,9 @@ Scope determines the accessibility of variables, objects, and functions from dif
 
 ## Function Expressions/Nameless Function
 
-const variable = function(arg1, arg2..){
+`const variable = function(arg1, arg2..){
     //do or return something
-}
+}`
 
 ## Higher Order Functions
 

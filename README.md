@@ -176,6 +176,16 @@ React
 
 **Thoughts:** everything is clicking in mind.
 
-**Link to work:** View Day 17 Work
+**Link to work:** [View Day 17 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/17-day-017)
+
+---
+
+### Day 18: August 27, 2026
+
+**Today's Progress:** Learn about functions, return keyword, scope, and function expressions.
+
+**Thoughts:** functions are useful.
+
+**Link to work:** View Day 18 Work
 
 ---

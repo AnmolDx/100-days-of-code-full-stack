@@ -21,3 +21,9 @@ function greet(name){
 }
 greet("Anmol")
 greet("Nitin")
+
+//return 
+function sum(a, b){
+    return a + b;
+}
+console.log(sum(3,5))

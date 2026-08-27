@@ -32,3 +32,17 @@ Scope determines the accessibility of variables, objects, and functions from dif
 - block scope - variable declared insed a { } block cannot be accessed from outside the block.
 
 - lexical scope - a variable defined outside a function an be accessible inside another function defined after the variable declaration.
+
+## Function Expressions/Nameless Function
+
+const variable = function(arg1, arg2..){
+    //do or return something
+}
+
+## Higher Order Functions
+
+A function that does one or both:
+
+- takes one or multiple functions as arguments.
+
+- returns a function

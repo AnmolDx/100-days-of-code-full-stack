@@ -42,3 +42,21 @@ console.log(mul)
     console.log(a)
 }
 // console.log(a)
+
+//functions expression
+let greeting = function(name){
+    return `good morning ${name}`
+}
+
+console.log(greeting("Anmol"))
+
+//higher order functions
+let hey = function(){
+    console.log("hey")
+}
+function multipleHeys(func, n){
+    for(let i = 1; i<=n; i++){
+        func()
+    }
+}
+multipleHeys(hey, 10)

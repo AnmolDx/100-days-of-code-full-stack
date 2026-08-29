@@ -186,6 +186,16 @@ React
 
 **Thoughts:** functions are useful.
 
-**Link to work:** View Day 18 Work
+**Link to work:** [View Day 18 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/18-day-018)
+
+---
+
+### Day 19: August 29, 2026
+
+**Today's Progress:** Learn about methods, this keyword, arrow function, try&catch, setTimeout() and setInterval().
+
+**Thoughts:** "this" is confusing.
+
+**Link to work:** View Day 19 Work
 
 ---

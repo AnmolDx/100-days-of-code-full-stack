@@ -17,3 +17,17 @@ the catch statement allows you to define a block of code to be executed, if an e
 ## Arrow functions
 
 `const func = (arg1, arg2..) => {function definition}`
+
+## Set Timeout
+
+to add delay in js. time is in millisecond. **1sec = 1000ms**
+
+`setTimeout(function, timeout)`
+
+## Set Interval
+
+`setInterval(function, timeout)`
+
+logs continuously after timeout interval.
+
+we can give id to this and use `clearInterval(id)` to stop it.

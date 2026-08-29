@@ -13,3 +13,7 @@ Actions that can be perfomred on an object.
 the try statement allows you to define a block of code to be tested for errors while it is being executed.
 
 the catch statement allows you to define a block of code to be executed, if an error occurs in the try block.
+
+## Arrow functions
+
+`const func = (arg1, arg2..) => {function definition}`

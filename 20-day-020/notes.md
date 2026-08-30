@@ -11,3 +11,23 @@
 - `every(some function definition or name)` - returns true if every element of array gives true for some function. Else returns false.
 
 - `reduce(reducer function with 2 variable for (accmulator, element))` - reduces the array to a single value.
+
+## Default Parameters
+
+Giving a default value to the arguments
+
+`function func(a, b = 2){
+    //do something
+}`
+
+## Spread
+
+expands an iterable into multiple values.
+
+`function func(...arr){
+    //do something
+}`
+
+## Rest
+
+Allows a function to take an indefinite number of arguments and bundle them in an array.

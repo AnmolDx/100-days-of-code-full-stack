@@ -31,3 +31,7 @@ expands an iterable into multiple values.
 ## Rest
 
 Allows a function to take an indefinite number of arguments and bundle them in an array.
+
+## Destructuring
+
+Strong values of array into multiple variables.

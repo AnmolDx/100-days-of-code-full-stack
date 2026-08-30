@@ -196,6 +196,16 @@ React
 
 **Thoughts:** "this" is confusing.
 
-**Link to work:** View Day 19 Work
+**Link to work:** [View Day 19 Work]((https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/19-day-019))
+
+---
+
+### Day 20: August 30, 2026
+
+**Today's Progress:** Learn about array methods, default parameters, destructuring spread, and rest.
+
+**Thoughts:** arrays are easy.
+
+**Link to work:** View Day 20 Work
 
 ---

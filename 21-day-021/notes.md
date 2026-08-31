@@ -26,3 +26,23 @@ Allows us to use any CSS selector
 
 `document.querySelectorAll("p")` - selects all p elements. gives node list
 
+## Properties & Methods
+
+- `innerText` - shows the visible text contained in a node.
+
+- `textContent` - shows all the full text.
+
+- `innerHTML` - shows the full markup.
+
+## Manipulating Style
+
+### using classList
+
+- `classList.add()` to add new classes
+
+- `classList.remove()` to remove classes
+
+- `classList.contains()` to check if class exists
+
+- `classList.toggle()` to toggle between add & remove
+

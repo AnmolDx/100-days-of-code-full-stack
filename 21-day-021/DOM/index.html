@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation Practice Sandbox</title>
+    <style>
+        :root {
+            --bg-color: #ffffff;
+            --text-color: #333333;
+            --card-bg: #f4f4f9;
+        }
+
+        .dark-theme {
+            --bg-color: #1e1e2e;
+            --text-color: #f8f8f2;
+            --card-bg: #282a36;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            max-width: 600px;
+            margin: 40px auto;
+            padding: 20px;
+            transition: all 0.3s ease;
+        }
+
+        .section {
+            background-color: var(--card-bg);
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        button {
+            padding: 8px 12px;
+            margin-top: 5px;
+            cursor: pointer;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+        }
+
+        .error {
+            color: #ff5555;
+            font-size: 0.9em;
+        }
+
+        .success {
+            color: #50fa7b;
+            font-size: 0.9em;
+        }
+
+        .highlight {
+            background-color: #f1fa8c;
+            color: #000;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>DOM Practice Sandbox</h1>
+    <button id="theme-toggle">Toggle Dark Mode 🌓</button>
+    <hr>
+
+    <!-- Challenge 1: Text Modification -->
+    <div class="section" id="text-section">
+        <h2>1. Modify Text</h2>
+        <p id="main-heading">This text is waiting to be changed.</p>
+        <button id="change-text-btn">Change Text</button>
+    </div>
+
+    <!-- Challenge 2: Event Handling & Form Validation -->
+    <div class="section">
+        <h2>2. Form Validation</h2>
+        <form id="practice-form" novalidate>
+            <label for="username">Username (min 4 chars):</label><br>
+            <input type="text" id="username" autocomplete="off">
+            <span id="error-message" class="error"></span>
+            <br><br>
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <!-- Challenge 3: Creating & Appending Elements -->
+    <div class="section">
+        <h2>3. Dynamic List Item Creator</h2>
+        <input type="text" id="item-input" placeholder="Type an item name...">
+        <button id="add-item-btn">Add to List</button>
+        <ul id="item-list">
+            <li>Existing Item 1</li>
+            <li>Existing Item 2</li>
+        </ul>
+    </div>
+
+    <!-- JavaScript script tags for practice -->
+    <script src="script.js">
+        
+    </script>
+</body>
+
+</html>

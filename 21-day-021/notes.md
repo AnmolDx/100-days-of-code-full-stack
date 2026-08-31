@@ -68,4 +68,6 @@ Allows us to use any CSS selector
 
 ## Removing Elements
 
-- `removeChild(element)` - 
+- `removeChild(element)`
+
+- `remove()`

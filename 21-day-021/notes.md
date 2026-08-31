@@ -46,3 +46,26 @@ Allows us to use any CSS selector
 
 - `classList.toggle()` to toggle between add & remove
 
+## Navigation
+
+`element.parentElement`
+
+`element.children`
+
+`element.previousElementSibling/nextElementSibling`
+
+## Adding Elements
+
+`document.createElement("p")`
+
+- `appendChild(element)` - add element in the last of its parent
+
+- `append(element)` - add element and string too. at the end
+
+- `prepend(element)` - add element and string in the start
+
+- `insertAdjacent(where, element)`
+
+## Removing Elements
+
+- `removeChild(element)` - 

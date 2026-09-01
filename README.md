@@ -216,6 +216,16 @@ React
 
 **Thoughts:** confusing but looks interesting.
 
-**Link to work:** View Day 21 Work
+**Link to work:** [View Day 21 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/21-day-021)
+
+---
+
+### Day 22: September 01, 2026
+
+**Today's Progress:** Learn about DOM Events, Event Listeners, mouse, keyboard, and form events and made random color generator as activity.
+
+**Thoughts:** DOM event seems useful.
+
+**Link to work:** View Day 22 Work
 
 ---

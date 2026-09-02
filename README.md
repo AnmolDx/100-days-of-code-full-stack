@@ -226,6 +226,16 @@ React
 
 **Thoughts:** DOM event seems useful.
 
-**Link to work:** View Day 22 Work
+**Link to work:** [View Day 22 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/22-day-022)
+
+---
+
+### Day 23: September 02, 2026
+
+**Today's Progress:** Learn about event delegation and bubbling, made todo-app using DOM events, and made simon says color game.
+
+**Thoughts:** Ok, it was easy before.
+
+**Link to work:** View Day 23 Work
 
 ---

@@ -236,6 +236,16 @@ React
 
 **Thoughts:** Ok, it was easy before.
 
-**Link to work:** View Day 23 Work
+**Link to work:** [View Day 23 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/23-day-023)
+
+---
+
+### Day 24: September 03, 2026
+
+**Today's Progress:** Learn about call stack, breakpoints, callback hell, and all about promises.
+
+**Thoughts:** promises are hard to make.
+
+**Link to work:** View Day 24 Work
 
 ---

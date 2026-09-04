@@ -25,3 +25,17 @@ to parse a string data into a JS object
 - `JSON.stringify(json)` Method
 
 to parse a JS object data into JSON
+
+## Ajax
+
+Asynchronous JavaScript and XML
+
+## Status Codes
+
+- 200 - ok
+
+- 404 - Not Found
+
+- 400 - Bad Request
+
+- 500 - Internal Server Error

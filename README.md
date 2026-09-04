@@ -246,6 +246,16 @@ React
 
 **Thoughts:** promises are hard to make.
 
-**Link to work:** View Day 24 Work
+**Link to work:** [View Day 24 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/24-day-024)
+
+---
+
+### Day 25: September 04, 2026
+
+**Today's Progress:** Learn about async & await keyword, handling rejections, API, and JSON and access it.
+
+**Thoughts:** Ok, this is getting serious now.
+
+**Link to work:** View Day 25 Work
 
 ---

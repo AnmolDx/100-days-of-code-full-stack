@@ -15,3 +15,13 @@ Application Programming Interface
 ## JSON
 
 JavaScript Object Notation
+
+### Accessing JSON data
+
+- `JSON.parse(data)` Method
+
+to parse a string data into a JS object
+
+- `JSON.stringify(json)` Method
+
+to parse a JS object data into JSON

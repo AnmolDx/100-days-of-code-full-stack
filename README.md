@@ -256,6 +256,16 @@ React
 
 **Thoughts:** Ok, this is getting serious now.
 
-**Link to work:** View Day 25 Work
+**Link to work:** [View Day 25 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/25-day-025)
+
+---
+
+### Day 26: September 05, 2026
+
+**Today's Progress:** Learn about axios, made random cat fact page and random dog picture using APIs, and revise some old topic of JS.
+
+**Thoughts:** nothing to sayy.
+
+**Link to work:** View Day 26 Work
 
 ---

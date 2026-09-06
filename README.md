@@ -266,6 +266,16 @@ React
 
 **Thoughts:** nothing to sayy.
 
-**Link to work:** View Day 26 Work
+**Link to work:** [View Day 26 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/26-day-026)
+
+---
+
+### Day 27: September 06, 2026
+
+**Today's Progress:** revised about terminal commands and did some practice JavaScript questions.
+
+**Thoughts:** finally done with js, i guess.
+
+**Link to work:** View Day 27 Work
 
 ---

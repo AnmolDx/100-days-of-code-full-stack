@@ -276,6 +276,16 @@ React
 
 **Thoughts:** finally done with js, i guess.
 
-**Link to work:** View Day 27 Work
+**Link to work:** [View Day 27 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/27-day-027)
+
+---
+
+### Day 28: September 07, 2026
+
+**Today's Progress:** revised about git and github.
+
+**Thoughts:** git is easier then it looks.
+
+**Link to work:** View Day 28 Work
 
 ---

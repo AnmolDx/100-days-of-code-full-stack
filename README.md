@@ -286,6 +286,16 @@ React
 
 **Thoughts:** git is easier then it looks.
 
-**Link to work:** View Day 28 Work
+**Link to work:** [View Day 28 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/28-day-028)
+
+---
+
+### Day 29: September 08, 2026
+
+**Today's Progress:** Learn about node.js(installing, import/export, process/process.argv) and npm.
+
+**Thoughts:** there is lot of useful thing we can use with npm.
+
+**Link to work:** View Day 29 Work
 
 ---

@@ -19,17 +19,23 @@ app.listen(port, () => {
 //     res.send("<h1>This is just a heading</h1>")
 // })
 
-app.get("/", (req, res) => {
+app.get("/:username/:id", (req, res) => {
+    console.log(req.params)
     res.send("i am root path")
 })
-app.get("/apple", (req, res) => {
-    res.send("you contacted apple path")
-})
-app.get("/orange", (req, res) => {
-    res.send("you contacted orange path")
-})
+// app.get("/apple", (req, res) => {
+//     res.send("you contacted apple path")
+// })
+// app.get("/orange", (req, res) => {
+//     res.send("you contacted orange path")
+// })
 
 //if route doesnt exist
 // app.get("*", (req, res) => {
 //     res.send("this path doesnt exist")
 // })
+
+app.get("/search", (req, res) => {
+    console.log(req.query);
+    res.send("no results")
+})

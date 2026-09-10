@@ -296,6 +296,16 @@ React
 
 **Thoughts:** there is lot of useful thing we can use with npm.
 
-**Link to work:** View Day 29 Work
+**Link to work:** [View Day 29 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/29-day-029)
+
+---
+
+### Day 30: September 10, 2026
+
+**Today's Progress:** started express learned handling request, sending response, routing, path parameter, query string.
+
+**Thoughts:** finally something new and unique.
+
+**Link to work:** View Day 30 Work
 
 ---

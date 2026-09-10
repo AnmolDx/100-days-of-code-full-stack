@@ -19,3 +19,7 @@ are the logical endpoints of a network connection that is used to exchange infor
 ## Routing
 
 it is process of selecting a path for traffic in a network or between or across multiple networks.
+
+## Nodemon
+
+To automatically restart server with code changes

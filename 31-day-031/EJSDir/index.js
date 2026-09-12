@@ -20,9 +20,12 @@ app.get("/rolldice", (req, res) => {
     res.render("rolldice.ejs", {diceVal: diceVal})
 })
 app.get("/ig/:username", (req, res) => {
-    const followers = ["nitin", "manish", "rahul", "aahan", "sahil"]
+    // const followers = ["nitin", "manish", "rahul", "aahan", "sahil"]
     let {username} = req.params
-    res.render("instagram.ejs", {username, followers})
+    const randomData = require("./randomData.json")
+    const data = randomData[username]
+    console.log(data)
+    res.render("instagram.ejs", {data})
 })
 
 app.listen(port, () => {

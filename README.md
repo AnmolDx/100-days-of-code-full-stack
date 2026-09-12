@@ -306,6 +306,16 @@ React
 
 **Thoughts:** finally something new and unique.
 
-**Link to work:** View Day 30 Work
+**Link to work:** [View Day 30 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/30-day-030)
+
+---
+
+### Day 31: September 12, 2026
+
+**Today's Progress:** Learn EJS, templating, passing data into EJS, conditional statement, loops and includes.
+
+**Thoughts:** Backend is too complex.
+
+**Link to work:** View Day 31 Work
 
 ---

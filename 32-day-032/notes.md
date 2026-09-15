@@ -23,3 +23,19 @@ Parse POST request data
 `app.use(express.urlencoded({extended: true}));`
 
 `app.use(express.json());`
+
+## Object Prototypes
+
+Prototypes are the mechanism by which JavaScript objects inherit features from one another.
+
+Its is like a single template object that all objects inherit methods and properties from without having their own copy.
+
+## New operator
+
+The new operator lets developers create an instance of a user-defined object type or of one of the built-in object types that has a constructor function.
+
+## Classes
+
+Classes are a template for creating objects
+
+The constructor method is a special method of a class for creating and initializing an object instance of that class.

@@ -316,6 +316,16 @@ React
 
 **Thoughts:** Backend is too complex.
 
-**Link to work:** View Day 31 Work
+**Link to work:** [View Day 31 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/31-day-031)
+
+---
+
+### Day 32: September 15, 2026
+
+**Today's Progress:** Learn about GET and POST requests and handling it, JS OOPS(Object prototype, New operator, Factory function, Classes).
+
+**Thoughts:** Bruh this thing is really very complex for me.
+
+**Link to work:** View Day 32 Work
 
 ---

@@ -39,3 +39,7 @@ The new operator lets developers create an instance of a user-defined object typ
 Classes are a template for creating objects
 
 The constructor method is a special method of a class for creating and initializing an object instance of that class.
+
+## Inheritance
+
+Inheritance is a mechanism that allow us to create new classes on the basis of already existing classes.

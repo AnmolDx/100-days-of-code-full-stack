@@ -326,6 +326,16 @@ React
 
 **Thoughts:** Bruh this thing is really very complex for me.
 
-**Link to work:** View Day 32 Work
+**Link to work:** [View Day 32 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/32-day-032)
+
+---
+
+### Day 33: September 17, 2026
+
+**Today's Progress:** Start REST and use it to make X post page(half done) while learning CRUD operation, Create route, Redirect.
+
+**Thoughts:** I need to rewatch all this(REST part) again.
+
+**Link to work:** View Day 33 Work
 
 ---

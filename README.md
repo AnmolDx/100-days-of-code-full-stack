@@ -336,6 +336,16 @@ React
 
 **Thoughts:** I need to rewatch all this(REST part) again.
 
-**Link to work:** View Day 33 Work
+**Link to work:** [View Day 33 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/33-day-033)
+
+---
+
+### Day 34: September 18, 2026
+
+**Today's Progress:** Complete X page project using RESTful APIs().
+
+**Thoughts:** Happy that i completed the project but its hard to remember those topics.
+
+**Link to work:** View Day 34 Work
 
 ---

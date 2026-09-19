@@ -346,6 +346,16 @@ React
 
 **Thoughts:** Happy that i completed the project but its hard to remember those topics.
 
-**Link to work:** View Day 34 Work
+**Link to work:** [View Day 34 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/34-day-034)
+
+---
+
+### Day 35: September 19, 2026
+
+**Today's Progress:** Start MySQL and learn to create database, tables.
+
+**Thoughts:** Finally SQL.
+
+**Link to work:** View Day 35 Work
 
 ---

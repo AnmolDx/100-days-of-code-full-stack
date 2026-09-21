@@ -356,6 +356,16 @@ React
 
 **Thoughts:** Finally SQL.
 
-**Link to work:** View Day 35 Work
+**Link to work:** [View Day 35 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/35-day-035)
+
+---
+
+### Day 36: September 21, 2026
+
+**Today's Progress:** Learn about constraints, primary & foreign key, INSERT & SELECT command.
+
+**Thoughts:** So far so good.
+
+**Link to work:** View Day 36 Work
 
 ---

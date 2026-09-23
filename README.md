@@ -366,6 +366,16 @@ React
 
 **Thoughts:** So far so good.
 
-**Link to work:** View Day 36 Work
+**Link to work:** [View Day 36 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/35-day-035)
+
+---
+
+### Day 37: September 23, 2026
+
+**Today's Progress:** Learn about clauses and operators.
+
+**Thoughts:** MySQL is ezz.
+
+**Link to work:** View Day 37 Work
 
 ---

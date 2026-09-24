@@ -366,7 +366,7 @@ React
 
 **Thoughts:** So far so good.
 
-**Link to work:** [View Day 36 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/35-day-035)
+**Link to work:** [View Day 36 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/36-day-036)
 
 ---
 
@@ -376,6 +376,16 @@ React
 
 **Thoughts:** MySQL is ezz.
 
-**Link to work:** View Day 37 Work
+**Link to work:** [View Day 37 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/37-day-037)
+
+---
+
+### Day 38: September 24, 2026
+
+**Today's Progress:** Learn about all clauses and table quesries and did some practice questions of MySQL.
+
+**Thoughts:** Damn it was fast.
+
+**Link to work:** View Day 38 Work
 
 ---

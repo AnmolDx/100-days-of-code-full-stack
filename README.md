@@ -386,6 +386,16 @@ React
 
 **Thoughts:** Damn it was fast.
 
-**Link to work:** View Day 38 Work
+**Link to work:** [View Day 38 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/38-day-038)
+
+---
+
+### Day 39: September 28, 2026
+
+**Today's Progress:** Learn about faker-js and MySQL2 package, using sql in CLI and add data using sql package.
+
+**Thoughts:** its getting confusing again.
+
+**Link to work:** View Day 39 Work
 
 ---

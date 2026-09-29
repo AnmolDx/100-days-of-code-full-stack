@@ -51,13 +51,18 @@ app.listen("8080", () => {
     console.log("server is listening to 8080")
 })
 
-// try{
-//     connection.query(q, [data], (err, result) => {
-//         if(err) throw err
-//         console.log(result);
-// })
-// }catch(err){
-//     console.log(err)
-// }
-
-// connection.end()
+//show route
+app.get("/user", (req, res) => {
+    let q = `SELECT * FROM user`
+    try {
+        connection.query(q, (err, users) => {
+            if (err) throw err
+            // console.log(result)
+            res.render("showUsers.ejs", {users})
+        })
+    } catch (err) {
+        console.log(err)
+        res.send("some error in database")
+    }
+    
+})

@@ -1,10 +1,13 @@
 const { faker } = require('@faker-js/faker');
 const mysql = require("mysql2");
 const express = require("express");
+const methodOverride = require("method-override");
 
 const app = express();
 const path = require("path")
 
+app.use(methodOverride("_method"))
+app.use(express.urlencoded({extended: true}));
 app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "/views"));
 
@@ -65,4 +68,25 @@ app.get("/user", (req, res) => {
         res.send("some error in database")
     }
     
+})
+
+//edit route
+app.get("/user/:id/edit", (req, res) => {
+    let {id} = req.params;
+    let q = `SELECT * FROM user WHERE id='${id}'`
+    try {
+        connection.query(q, (err, result) => {
+            if (err) throw err
+            let user = result[0]
+            res.render("edit.ejs", {user})
+        })
+    } catch (err) {
+        console.log(err)
+        res.send("some error in database")
+    }
+})
+
+//update route
+app.patch("/user/:id", (req, res) => {
+    res.send("updated")
 })

@@ -396,6 +396,16 @@ React
 
 **Thoughts:** its getting confusing again.
 
-**Link to work:** View Day 39 Work
+**Link to work:** [View Day 39 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/39-day-039)
+
+---
+
+### Day 40: September 29, 2026
+
+**Today's Progress:** Made page where i access database(in mysql) using node.js and made routes using RESTful API .
+
+**Thoughts:** man rest is very vast topic gotta redo all sessions again.
+
+**Link to work:** View Day 40 Work
 
 ---

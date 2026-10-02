@@ -26,10 +26,32 @@
             else no();
         }
 
-        ask("do you agree", 
-            () => console.log("You agreed"),
-            () => console.log("You cancelled the execution")
-        )
+        // ask("do you agree", 
+        //     () => console.log("You agreed"),
+        //     () => console.log("You cancelled the execution")
+        // )
+
+        function add7(num){
+            return num+7;
+        }
+        console.log(add7(3))
+
+        function multiply(num1, num2){
+            return num1*num2;
+        }
+        console.log(multiply(3,2))
+
+        function capitalized(string){
+            let lowerCase = string.toLowerCase();
+            let result = lowerCase[0].toUpperCase()+lowerCase.slice(1,);
+            return result
+        }
+        console.log(capitalized("Anmol"))
+
+        function lastLetter(string){
+            return string.at(-1)
+        }
+        console.log(lastLetter("abcd"))
     </script>
 </body>
 

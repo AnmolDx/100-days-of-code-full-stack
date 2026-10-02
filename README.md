@@ -406,6 +406,16 @@ React
 
 **Thoughts:** man rest is very vast topic gotta redo all sessions again.
 
-**Link to work:** View Day 40 Work
+**Link to work:** [View Day 40 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/40-day-040)
+
+---
+
+### Day 4: October 02, 2026
+
+**Today's Progress:** Revised previous function topics including arrow func, func expression, and declaration and done some questions.
+
+**Thoughts:** well gonna revise old topics so my mind can take some rest.
+
+**Link to work:** View Day 41 Work
 
 ---

@@ -410,12 +410,22 @@ React
 
 ---
 
-### Day 4: October 02, 2026
+### Day 41: October 02, 2026
 
 **Today's Progress:** Revised previous function topics including arrow func, func expression, and declaration and done some questions.
 
 **Thoughts:** well gonna revise old topics so my mind can take some rest.
 
-**Link to work:** View Day 41 Work
+**Link to work:** [View Day 41 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/41-day-041)
+
+---
+
+### Day 42: October 08, 2026
+
+**Today's Progress:** strengthing my js skill by making games and doing practice question.
+
+**Thoughts:** now js seems ez.
+
+**Link to work:** View Day 42 Work
 
 ---

@@ -426,6 +426,16 @@ React
 
 **Thoughts:** now js seems ez.
 
-**Link to work:** View Day 42 Work
+**Link to work:** [View Day 42 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/42-day-042)
+
+---
+
+### Day 43: October 14, 2026
+
+**Today's Progress:** revise DOM and did some practice of it.
+
+**Thoughts:** revising things.
+
+**Link to work:** View Day 43 Work
 
 ---

@@ -436,6 +436,16 @@ React
 
 **Thoughts:** revising things.
 
-**Link to work:** View Day 43 Work
+**Link to work:** [View Day 43 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/43-day-043)
+
+---
+
+### Day 44: October 15, 2026
+
+**Today's Progress:** did some more DOM practice add ui and basic functionality to it using DOM methods.
+
+**Thoughts:** finally doing something by myself.
+
+**Link to work:** View Day 44 Work
 
 ---

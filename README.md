@@ -446,6 +446,16 @@ React
 
 **Thoughts:** finally doing something by myself.
 
-**Link to work:** View Day 44 Work
+**Link to work:** [View Day 44 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/43-day-043)
+
+---
+
+### Day 45: October 19, 2026
+
+**Today's Progress:** Made Etch a sketch page using html, css, and js.
+
+**Thoughts:** less goo some project.
+
+**Link to work:** View Day 45 Work
 
 ---

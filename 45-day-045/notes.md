@@ -1,3 +1,5 @@
+# Notes
+
 Build Etch A Sketch Page
 
-repo link - [link](https://github.com/AnmolDx/Etch-a-Sketch)
+repo link - [Etch-a-Sketch repository](https://github.com/AnmolDx/Etch-a-Sketch)

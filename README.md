@@ -442,7 +442,7 @@ React
 
 ### Day 44: October 15, 2026
 
-**Today's Progress:** did some more DOM practice add ui and basic functionality to it using DOM methods.
+**Today's Progress:** did some more DOM practice add ui and basic functionality to rock paper scissors game using DOM methods.
 
 **Thoughts:** finally doing something by myself.
 

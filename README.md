@@ -446,7 +446,7 @@ React
 
 **Thoughts:** finally doing something by myself.
 
-**Link to work:** [View Day 44 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/43-day-043)
+**Link to work:** [View Day 44 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/44-day-044)
 
 ---
 
@@ -456,6 +456,16 @@ React
 
 **Thoughts:** less goo some project.
 
-**Link to work:** View Day 45 Work
+**Link to work:** [View Day 45 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/45-day-045)
+
+---
+
+### Day 46: October 28, 2026
+
+**Today's Progress:** Revised objects and start a calculator project.
+
+**Thoughts:** lets win this project too.
+
+**Link to work:** View Day 46 Work
 
 ---

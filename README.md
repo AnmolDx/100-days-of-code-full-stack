@@ -466,6 +466,16 @@ React
 
 **Thoughts:** lets win this project too.
 
-**Link to work:** View Day 46 Work
+**Link to work:** [View Day 46 Work](https://github.com/AnmolDx/100-days-of-code-full-stack/tree/main/46-day-046)
+
+---
+
+### Day 47: October 30, 2026
+
+**Today's Progress:** done with calculator project.
+
+**Thoughts:** it was damn hard.
+
+**Link to work:** View Day 47 Work
 
 ---
